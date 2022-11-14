@@ -1,0 +1,14 @@
+C:\Users\heath\OneDrive\Desktop\repos\FizzBizzChallenge\bin\Debug\netcoreapp3.1\FizzBizzChallenge.exe
+C:\Users\heath\OneDrive\Desktop\repos\FizzBizzChallenge\bin\Debug\netcoreapp3.1\FizzBizzChallenge.deps.json
+C:\Users\heath\OneDrive\Desktop\repos\FizzBizzChallenge\bin\Debug\netcoreapp3.1\FizzBizzChallenge.runtimeconfig.json
+C:\Users\heath\OneDrive\Desktop\repos\FizzBizzChallenge\bin\Debug\netcoreapp3.1\FizzBizzChallenge.runtimeconfig.dev.json
+C:\Users\heath\OneDrive\Desktop\repos\FizzBizzChallenge\bin\Debug\netcoreapp3.1\FizzBizzChallenge.dll
+C:\Users\heath\OneDrive\Desktop\repos\FizzBizzChallenge\bin\Debug\netcoreapp3.1\FizzBizzChallenge.pdb
+C:\Users\heath\OneDrive\Desktop\repos\FizzBizzChallenge\obj\Debug\netcoreapp3.1\FizzBizzChallenge.csproj.AssemblyReference.cache
+C:\Users\heath\OneDrive\Desktop\repos\FizzBizzChallenge\obj\Debug\netcoreapp3.1\FizzBizzChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heath\OneDrive\Desktop\repos\FizzBizzChallenge\obj\Debug\netcoreapp3.1\FizzBizzChallenge.AssemblyInfoInputs.cache
+C:\Users\heath\OneDrive\Desktop\repos\FizzBizzChallenge\obj\Debug\netcoreapp3.1\FizzBizzChallenge.AssemblyInfo.cs
+C:\Users\heath\OneDrive\Desktop\repos\FizzBizzChallenge\obj\Debug\netcoreapp3.1\FizzBizzChallenge.csproj.CoreCompileInputs.cache
+C:\Users\heath\OneDrive\Desktop\repos\FizzBizzChallenge\obj\Debug\netcoreapp3.1\FizzBizzChallenge.dll
+C:\Users\heath\OneDrive\Desktop\repos\FizzBizzChallenge\obj\Debug\netcoreapp3.1\FizzBizzChallenge.pdb
+C:\Users\heath\OneDrive\Desktop\repos\FizzBizzChallenge\obj\Debug\netcoreapp3.1\FizzBizzChallenge.genruntimeconfig.cache
